@@ -5,14 +5,14 @@ author_profile: true
 ---
 # Welcome to My Personal Website  
 
-I’m **Habib Zreik** — a mechanical engineer specializing in mechatronics. I'm into building, coding, and figuring out how complex systems fit together. Beyond engineering, I’ve always been drawn to community, culture, and volunteering.   
+I’m **Habib Zreik** — a robotics enthusiast specializing in mechatronics. I'm into building, coding, and figuring out how complex systems fit together. Beyond engineering, I’ve always been drawn to community, culture, and volunteering.   
 
 ## Education
 
 
 - ⏳ **M.Sc. in Mechanical Engineering (specialization in Mechatronics)** — [University of Duisburg-Essen](https://www.uni-due.de/), 2023 – present (*thesis in progress*)  
 - 🎓 **Associate Degree in Computer Science** — [University of the People](https://www.uopeople.edu/), 2023  
-- ⏳ **MBA in Business Administration** — [Syrian Virtual University](https://www.svuonline.org/en), 2021 – present (*thesis pending*)
+- ⏳ **MBA in Business Administration** — [Syrian Virtual University](https://www.svuonline.org/en), 2021 – present (*thesis pendingMechanical*)
 - 🎓 **B.Sc. in Mechanical Engineering** — [Damascus University](https://www.damascusuniversity.edu.sy/index.php?lang=2), 2020
  
 
@@ -33,7 +33,7 @@ Clear communication is key to everything I do. Whether I’m creating Git workfl
 
 ## Areas of Expertise  
 
-- **Mechanical & Mechatronic Engineering**: from classical mechanics to robotics and automation  
+- **Mechatronics**: from classical mechanics to robotics and automation  
 - **Programming**: C++, Python, ROS2  
 - **Translation**: English ↔ Arabic technical, academic, and cultural works  
 - **Research & Documentation**: scientific methodology, project development, technical writing  

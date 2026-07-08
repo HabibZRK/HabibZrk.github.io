@@ -139,7 +139,7 @@
 
 <h4>Professional Contact</h4>
 <ul>
-  <li>For engineering & research inquiries: <a href="mailto:h.zreik@ieee.org">h.zreik@ieee.org</a></li>
+  <li>For research and robotics inquiries: <a href="mailto:h.zreik@ieee.org">h.zreik@ieee.org</a></li>
   <li>For translation inquiries (En⇔Ar): <a href="mailto:h.zreik@gmail.com">h.zreik@gmail.com</a></li>
 </ul>
 
