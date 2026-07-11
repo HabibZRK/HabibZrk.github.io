@@ -12,12 +12,12 @@ I’m **Habib Zreik** — a robotics enthusiast specializing in mechatronics. I'
 
 - ⏳ **M.Sc. in Mechanical Engineering (specialization in Mechatronics)** — [University of Duisburg-Essen](https://www.uni-due.de/), 2023 – present (*thesis in progress*)  
 - 🎓 **Associate Degree in Computer Science** — [University of the People](https://www.uopeople.edu/), 2023  
-- ⏳ **MBA in Business Administration** — [Syrian Virtual University](https://www.svuonline.org/en), 2021 – present (*thesis pendingMechanical*)
+- ⏳ **MBA in Business Administration** — [Syrian Virtual University](https://www.svuonline.org/en), 2021 – present (*thesis pending*)
 - 🎓 **B.Sc. in Mechanical Engineering** — [Damascus University](https://www.damascusuniversity.edu.sy/index.php?lang=2), 2020
  
 
 ## Recent Work
-Lately, at [**DST e.V.**](https://www.dst-org.de/), I have been working on the [**CoboTank**](https://cobotank.de/) project, which focuses on partially automating the liquid transshipment process from inland ports to tanker vessels. As part of this effort, I contributed to the development of the fully automated **RoboTank** system and co-authored a research paper presented at the [**IEEE International Conference on Mechatronic and Embedded Systems and Applications (MESA) 2025**](https://ieee-mesa.org/2025/) in Macau, China. **The paper**](https://ieeexplore.ieee.org/document/11278877)The paper is available via IEEE Xplore. Alongside work, I am continuing my master’s studies in Mechatronics at the [**University of Duisburg-Essen**](https://www.uni-due.de/).
+Lately, at [**DST e.V.**](https://www.dst-org.de/), I have been working on the [**CoboTank**](https://cobotank.de/) project, which focuses on partially automating the liquid transshipment process from inland ports to tanker vessels. As part of this effort, I contributed to the development of the fully automated **RoboTank** system and co-authored a research paper presented at the [**IEEE International Conference on Mechatronic and Embedded Systems and Applications (MESA) 2025**](https://ieee-mesa.org/2025/) in Macau, China. [**The paper**](https://ieeexplore.ieee.org/document/11278877) is available via IEEE Xplore. Alongside work, I am continuing my master’s studies in Mechatronics at the [**University of Duisburg-Essen**](https://www.uni-due.de/).
 
 
 ## What Drives My Work  
